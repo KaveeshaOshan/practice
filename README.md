@@ -1,3 +1,3 @@
 # practice
 print("Hello")
-print
+print('rrrr')
